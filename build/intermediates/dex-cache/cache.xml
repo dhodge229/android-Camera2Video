@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/pre-dexed/debug/classes-e920b5fa983e5427acecb133ad38ea2f8d5347e7.jar"
+        jar="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76"/>
+    <item
+        dex="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-a41cd3d29cbb903f4a1d366d004f0762acdd5b4f.jar"
+        jar="/Applications/Android Studio 2.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/pre-dexed/debug/classes-e78f537e6a9ea22fcde2438d1fc21d55a528adc7.jar"
+        jar="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-1663e2f973e94f69d549a10ee69a87f5652b4936.jar"
+        jar="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62"/>
+    <item
+        dex="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-d0fc2cec8437c97d70173b2aeeeaad1a2bf66ca7.jar"
+        jar="/Users/davidhodge/Documents/android-Camera2Video/Camera2VideoSample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+
+</pre-dex-items>
